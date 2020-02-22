@@ -4,7 +4,7 @@ Team Name: Red Devops
 Members: 
   •Villarea, Ervie John T.
   •Guerrero, Dodge
-  •Alcantara, Ver John
+  •Alcantara, Vher Jann
   •Julaid, Alhadzri
   
  Application Description:
