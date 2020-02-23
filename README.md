@@ -15,8 +15,8 @@ Members:
  - PyQt5 Library
  
  Installation Guide:
- -First, Download the python and pyQT5 to open the application(If you don't have application to open this files).
- -Second, Open the BlueHacks files
+ - First, Download the python and pyQT5 to open the application(If you don't have application to open this files).
+ - Second, Open the BlueHacks files
  - run main.py
  
  Citation or Referrences:
