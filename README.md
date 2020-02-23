@@ -20,9 +20,9 @@ Members:
  - run main.py
  
  Citation or Referrences:
-  •Google Images
-  •Stackoverflow.com
-  •Youtube.com
-  •Github.com
-  •flaticon.com
+ - Google Images
+ - Stackoverflow.com
+ - Youtube.com
+ - Github.com
+ - flaticon.com
         
