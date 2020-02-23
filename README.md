@@ -2,13 +2,13 @@
 
 Team Name: Red Devops
 Members: 
-  •Villareal, Ervie John T.
-  •Guerrero, Dodge
-  •Alcantara, Vher Jann
-  •Julaid, Alhadzri
+ - Villareal, Ervie John T.
+ - Guerrero, Dodge
+ - Alcantara, Vher Jann
+ - Julaid, Alhadzri
   
  Application Description:
- -This application contains the weaving patterns of the various Ifugao tribes. Instantly, the user can generate any design of their choice, then use it as a reference to any content on which they desire to place themselves. The customize feature allows the user modify any colors they want to use.
+- This application contains the weaving patterns of the various Ifugao tribes. Instantly, the user can generate any design of their choice, then use it as a reference to any content on which they desire to place themselves. The customize feature allows the user to modify specific design.
   
  App Guidlines:
  - Python Language
